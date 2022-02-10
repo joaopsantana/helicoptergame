@@ -6,7 +6,7 @@ Neste projeto recriamos um jogo de helicóptero em HTML + CSS + Javascript.
 
 Em relação ao projeto original eu modifiquei: 
 
-✅ 1-  Removi o tiro automático do helicóptero que ocorria quando um helicóptero inimigo estava em rota de colisão com o helicóperto que o jogador controla. Agora é necessário apertar a tecla "D" para efetuar um tiro.
+✅ 1-  Removi o tiro automático do helicóptero que ocorria quando um helicóptero inimigo estava em rota de colisão com o helicóptero que o jogador controla. Agora é necessário apertar a tecla "D" para efetuar um tiro.
 
 
 ✅ 2 - Adicionei um áudio para indicar quando ocorre uma colisão entre o helicóptero que o jogador controla e um helicóptero inimigo. 
